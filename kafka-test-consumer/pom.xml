@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>com.siemens.plm.mindsphere.edi</groupId>
+    <groupId>com.zeroexception</groupId>
     <artifactId>messaging-technology</artifactId>
     <version>0.0.1</version>
     <relativePath/> <!-- lookup parent from repository -->
@@ -35,7 +35,7 @@
       </exclusions>
     </dependency>
     <dependency>
-      <groupId>com.siemens.plm.mindsphere.edi</groupId>
+      <groupId>com.zeroexception</groupId>
       <artifactId>commons</artifactId>
     </dependency>
     <dependency>

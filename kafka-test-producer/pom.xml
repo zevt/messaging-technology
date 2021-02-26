@@ -5,13 +5,13 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>com.siemens.plm.mindsphere.edi</groupId>
+    <groupId>com.zeroexception</groupId>
     <artifactId>messaging-technology</artifactId>
     <version>0.0.1</version>
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
 
-  <groupId>com.siemens.plm.mindsphere.edi</groupId>
+  <groupId>com.zeroexception</groupId>
   <artifactId>kafka-test-producer</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>kafka-test-producer</name>
