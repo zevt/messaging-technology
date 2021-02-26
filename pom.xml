@@ -15,11 +15,7 @@
   <modules>
     <module>kafka-test-producer</module>
     <module>kafka-test-consumer</module>
-    <module>sns-test-producer</module>
-    <module>sqs-test-consumer</module>
     <module>commons</module>
-    <module>edi-sns-producer</module>
-    <module>feature-test</module>
   </modules>
   <parent>
     <groupId>org.springframework.boot</groupId>
